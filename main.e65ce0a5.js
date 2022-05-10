@@ -3391,7 +3391,7 @@ this.wordle.bundle = function (e) {
     'flack',
     'widow',
     'augur'
-  ]
+  ],
   Ta = [
     'aahed',
     'aalii',
