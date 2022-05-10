@@ -1082,8 +1082,7 @@ this.wordle.bundle = function (e) {
     debug_mode: !1
   });
   var La = [
-  
-    'cigar',
+        'cigar',
     'rebut',
     'sissy',
     'humph',
@@ -1407,8 +1406,8 @@ this.wordle.bundle = function (e) {
     'badge',
     'midst',
     'canny',
-    'fetus',
-    'butch',
+    'shine',
+    'gecko',
     'farce',
     'slung',
     'tipsy',
@@ -1466,18 +1465,15 @@ this.wordle.bundle = function (e) {
     'sever',
     'field',
     'fluff',
-    'flack',
     'agape',
     'voice',
     'stead',
-    'stalk',
     'berth',
     'madam',
     'night',
     'bland',
     'liver',
     'wedge',
-    'augur',
     'roomy',
     'wacky',
     'flock',
@@ -1519,7 +1515,6 @@ this.wordle.bundle = function (e) {
     'woven',
     'needy',
     'clown',
-    'widow',
     'irony',
     'ruder',
     'gauze',
@@ -3331,8 +3326,6 @@ this.wordle.bundle = function (e) {
     'undid',
     'intro',
     'basal',
-    'shine',
-    'gecko',
     'rodeo',
     'guard',
     'steer',
@@ -3391,8 +3384,14 @@ this.wordle.bundle = function (e) {
     'unset',
     'unlit',
     'vomit',
-    'fanny'
-  ],
+    'fanny',
+    'fetus',
+    'butch',
+    'stalk',
+    'flack',
+    'widow',
+    'augur'
+  ]
   Ta = [
     'aahed',
     'aalii',
